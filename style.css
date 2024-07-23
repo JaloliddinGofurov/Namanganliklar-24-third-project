@@ -35,6 +35,7 @@ body {
   margin-right: auto;
 }
 
+
 /* SITE-HEADER */
 .site-header-top {
   padding-top: 30px;
@@ -463,6 +464,9 @@ body {
   height: 338px;
   object-fit: cover;
   border-radius: 15px;
+}
+.sidebar-ad-img-tall {
+  height: 553px;
 }
 
 /* SITE-FOOTER */
